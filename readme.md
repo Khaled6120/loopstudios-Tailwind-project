@@ -9,9 +9,10 @@ A practice design implemented using TailwindCSS
 
 ## Live Demo
 [Demo ](https://khaled6120.github.io/loopstudios-Tailwind-project/)
-Install dependencies
 
+## Install dependencies
 ```
+
 npm Install
 ```
 
@@ -19,6 +20,7 @@ Run Tailwind CLI
 
 ```
 npm run watch
+
 ```
 
 ## Screen shots
