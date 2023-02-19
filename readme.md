@@ -25,6 +25,6 @@ npm run watch
 
 ## Screen shots **Responsive design**
 
-![image](https://user-images.githubusercontent.com/86200305/219942483-9bf87f2a-0308-442f-a924-3a2596ca4173.png)
+![23-removebg-preview](https://user-images.githubusercontent.com/86200305/219943373-d278a0ed-d13c-4d71-aa62-6ee8bf9bc667.png)
 
 ![Untitled design (5)](https://user-images.githubusercontent.com/86200305/219902683-6a101975-1b52-4e19-85b5-c001f4715344.png)
